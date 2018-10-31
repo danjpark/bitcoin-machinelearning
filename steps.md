@@ -8,3 +8,8 @@
 3. start a jupyter notebook
 4. install all libraries as needed using either `conda` or `pip`
     since we are already working in anaconda we will use `conda`
+
+NEXT:
+- start a notebook
+- install all the libraries
+- check to see if the data is the latest
